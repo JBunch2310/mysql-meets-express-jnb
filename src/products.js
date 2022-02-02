@@ -1,6 +1,8 @@
 const mysql = require(`mysql2`);
 
-//Add Credentials connection!
+initializeApp({
+    credential: cert(credentials)
+})
 
 // const query =`SELECT * FROM Products`;
 
