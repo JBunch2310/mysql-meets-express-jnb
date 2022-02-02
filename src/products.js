@@ -1,6 +1,6 @@
 const mysql = require(`mysql2`);
 
-
+//Add Credentials connection!
 
 // const query =`SELECT * FROM Products`;
 
